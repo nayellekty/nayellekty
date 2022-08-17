@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é nayelle
+- 👋 Olá, meu nome é Nayelle
 - :+1: Meu email de contato é nayellesouza2007@gmail.com
 - 👀 Estou interessada em aprender a programar novas linguagens.
 - 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript
